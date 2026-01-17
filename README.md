@@ -8,7 +8,7 @@ The program was created to demonstrate my skills in Javascript. I fetch a Weathe
 
 [Weather Application Deployment](https://cherry-machado.github.io/js-practice-weather-app/)
 
-[Hello World Demo Video](https://www.youtube.com/watch?v=OmYbi97_cOY)
+[Weather Application Demo Video](https://www.youtube.com/watch?v=OmYbi97_cOY)
 
 # Development Environment
 
