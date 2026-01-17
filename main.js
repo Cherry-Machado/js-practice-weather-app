@@ -1,8 +1,8 @@
 // This is the Main JavaScript file for the Weather App. 
 // Orchestrates the application logic.
 
-import { fetchWeatherData } from 'api.js';
-import { createWeatherTemplate, updateDateTime } from 'template.js';
+import { fetchWeatherData } from './api.js';
+import { createWeatherTemplate, updateDateTime } from './template.js';
 
 const appContainer = document.querySelector(".weather-app");
 
