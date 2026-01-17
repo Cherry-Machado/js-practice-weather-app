@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #121212; /* Fallback color */
+  background: #ebe1e1; /* Fallback color */
   background-size: cover;
   background-position: center;
   transition: background-image 0.5s ease-in-out;
